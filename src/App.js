@@ -12,7 +12,7 @@ import {
   
 } from "react-router-dom";
 import  NoteState from './context/noteState';
-function App() {
+function App(){
   return (
       <>
       <NoteState>  
